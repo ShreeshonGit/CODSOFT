@@ -32,6 +32,7 @@ Takes input for marks in multiple subjects and calculates:
 - Enter number of subjects
 - Take input of marks obtained in each subjects out of 100
 - The program will calculate total marks, average percentage and assign grade based on average percentage
+-  -------------
 ### Grading Scale
 - A: Average Percentage >= 90%
 - B: Average Percentage >= 80%
@@ -52,3 +53,6 @@ Simulates a basic atm interface with:
 - Press `1` to check your current balance.
 - Press `2` to deposit a specific amount.
 - Press `3` to withdraw money from your account (only if balance is enough).
+-  Press `4` to exit the ATM system.
+- After every action, a message will be shown to inform the user about the success or failure.
+- The menu repeats until the user selects the Exit option.
